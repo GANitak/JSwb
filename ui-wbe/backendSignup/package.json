@@ -1,0 +1,11 @@
+{
+  "name": "backendsignup",
+  "version": "1.0.0",
+  "description": "sign Up APP page",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "GANitak",
+  "license": "MIT"
+}
