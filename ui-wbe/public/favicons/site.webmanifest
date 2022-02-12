@@ -1,9 +1,8 @@
 {
-  "short_name": "ui-wbe",
-  "name": "UIwbe",
-  "icons": [
-
-    {
+    "name": "GANitak.io",
+    "short_name": "GANitak.io",
+    "icons": [
+        {
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
@@ -15,7 +14,7 @@
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#369f14",
-    "start_url": //"https://www.ganitak.io/",
+    "background_color": "#ffffff",
+    "start_url": "https://www.ganitak.io/",
     "display": "standalone"
 }
