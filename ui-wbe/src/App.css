@@ -1,12 +1,14 @@
-.App {
+.App, div {
   margin: 0;
   padding: 0;
   display: grid;
   text-align: center;
+  background-color: #369f14;
 }
 
 .App-header {
   background-color: #282c34;
+  border-width: 3px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -17,3 +19,23 @@
   color: #369f14;
 }
 
+.App-skills {
+  border-color: red;
+}
+.Skills {
+  background-color: #200c01;
+  font-family: sans-serif;
+  font-size: calc(2px + 2vmin);
+  color: #369f14;
+  border-style: dotted;
+  text-align: center;
+  display: flex;
+  padding: 3px;
+  margin: 3px;
+  border-width: 3px;
+}
+
+.h2 {
+  margin: 2px;
+  font-size: px;
+}
