@@ -8,7 +8,7 @@ function App() {
 <p><strong>Welcome to GANit_ak.io</strong></p>
     <p>:: What they do :: <br/>
         <em>web & mobile app development<br/></em>(front end) & back end<br/>
-        <strong><code>Happy times G0 after that.</code></strong>
+        <strong><code><br/>Happy times G0 after that.</code></strong>
     </p>
  <a href="https://twitter.com/GANit_ak" target="_blank" rel="twitter">Twitter</a>
     

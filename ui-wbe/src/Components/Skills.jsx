@@ -2,7 +2,7 @@ function Skills() {
 	return (
     	<div className="Skills">
     		<header className="App-skills">
-        		<h2>•Languages : JavaScript-HTML-CSS</h2>
+        		<h2>•Languages : JavaScript-HTML-CSS-GraphQL-Rust</h2>
 				<h4>•Framework: ReactJS-VueJS-Angular-Netlify for deployment
 				•Database: SQL-noSQL -Azure -RavenDB -MongoDB
 				•Agile methods</h4>

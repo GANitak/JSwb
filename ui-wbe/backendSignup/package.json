@@ -1,7 +1,7 @@
 {
   "name": "backendsignup",
   "version": "1.0.0",
-  "description": "sign Up APP page",
+  "description": "sign Up APP ",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"

@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const signUpTemplate = new mongoose.Schema({
+const signUpCard = new mongoose.Schema({
 	//what details to collect?
 	fullName:{
 		type: String,
@@ -25,4 +25,4 @@ const signUpTemplate = new mongoose.Schema({
 
 })
 
-module.exports = mongoose.model('mytable', signUpTemplate)
+module.exports = mongoose.model('WBEcollection', signUpCard)

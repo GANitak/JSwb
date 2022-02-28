@@ -2,6 +2,18 @@ $npm express mongoose cors dotenv nodemon !!PACKAGES for backendSignUP!!
 
 NPX Create-React-App
 
+--------
+Syntax::
+
+ex :: document.getElementById('header');
+
+   document: object
+   .: property accessor
+   getElementById: property
+   (): function call
+   'header': parameter
+--------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Learn More

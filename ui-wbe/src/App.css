@@ -1,13 +1,40 @@
-.App, div {
+/*/*input {
+  border: 1px solid #ddd0d2;
+  background: #FFFCFA;
+  padding: 5px;
+  width: calc(100% - 270px);
+  font-size: 1em;
+  text-align: center;
+}
+
+button {
+  background: #FFABAB;
+  border: 1px solid #FF9C9C;
+  padding: 5px;
+  color: #FFFCFA;
+  width: 250px;
+  font-size: 1em;
+  cursor: pointer;
+}*/
+
+.App, body, html, div{
   margin: 0;
   padding: 0;
   display: grid;
   text-align: center;
   background-color: #369f14;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-
+/*code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}*/
 .App-header {
-  background-color: #282c34;
+  background-color: #382c34;
   border-width: 3px;
   min-height: 100vh;
   display: flex;
@@ -19,9 +46,6 @@
   color: #369f14;
 }
 
-.App-skills {
-  border-color: red;
-}
 .Skills {
   background-color: #200c01;
   font-family: sans-serif;
@@ -34,7 +58,28 @@
   margin: 3px;
   border-width: 3px;
 }
-
+.App-skills {
+  border-color: darkseagreen;
+}
 .h2 {
   margin: 2px;
 }
+
+/*a:link { 
+  color: #169f14;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: blink;
+}
+a:visited {
+  color: darkslateblue;
+  background-color: transparent;
+  text-decoration: none;
+}*/
